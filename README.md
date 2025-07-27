@@ -44,6 +44,7 @@
 
 ## 📥 Clone Repository
 ```bash
-git clone https://github.com/Whistler95/Animal-Care-Platform.git
+git clone https://github.com/Whistler95/Animal-Care-Platform.git```
+
 Import to STS (Spring Tool Suite) as Maven Project
 DB 계정 및 URL 설정 후 실행
