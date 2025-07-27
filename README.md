@@ -42,8 +42,8 @@
 
 ---
 
-📥 Clone Repository
-
+## 📥 Clone Repository
+```bash
 git clone https://github.com/Whistler95/Animal-Care-Platform.git
 Import to STS (Spring Tool Suite) as Maven Project
 DB 계정 및 URL 설정 후 실행
@@ -64,7 +64,7 @@ Maven 기반 의존성 설정, XML 기반 설정파일 구성 및 라이브러�
 
 WAR 패키징 및 배포 환경 대응 (contextPath 활용 포함)
 
-회원가입/로그인/마이페이지 흐름 전반 구현
+회원가입 / 로그인 / 마이페이지 흐름 전반 구현
 
 이메일 인증, 계정 잠금, 포인트 지급 기능 구현
 
@@ -78,3 +78,5 @@ WAR 패키징 및 배포 환경 대응 (contextPath 활용 포함)
 🌐 Notion 프로젝트 정리
 
 🚀 배포된 사이트 바로가기 (추가 예정)
+
+---
