@@ -41,11 +41,10 @@
 - 핵심 테이블 : `USERS`, `SHELTERS`, `VOLUNTEERS`, `DONATIONS` ...
 
 ---
-
-```markdown
 ## 📥 Clone Repository
-
+```markdown
 ```bash
+
 git clone https://github.com/Whistler95/Animal-Care-Platform.git
 ```
 > Import to STS (Spring Tool Suite) as Maven Project  
