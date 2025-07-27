@@ -75,4 +75,3 @@ git clone https://github.com/Whistler95/Animal-Care-Platform.git
 - 📄 [포트폴리오 PPT 보기](#)  
 - 🌐 [Notion 프로젝트 정리](#)  
 - 🚀 **배포된 사이트 바로가기 (추가 예정)**  
-```
