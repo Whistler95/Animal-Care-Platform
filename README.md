@@ -50,9 +50,13 @@ git clone https://github.com/Whistler95/Animal-Care-Platform.git
 # Import to STS (Spring Tool Suite) as Maven Project
 # DB 계정 및 URL 설정 후 실행
 
+---
+
 🎥 시연 영상
 📌 유튜브 시연 영상 보기
 📌 포트폴리오 PPT 보기
+
+---
 
 📌 담당 역할
 전체 기획 및 설계, DB 모델링
@@ -68,6 +72,8 @@ Spring Legacy(5.3.33) 기반 프로젝트 구조 사전설계 및 환경 구성
 메인 페이지 전체 기획 및 카드형 UI 구조 설계/구현 담당
 
 아이템 리서치부터 최종 발표 및 전체 PPT 작성/발표까지 전 과정 직접 수행
+
+---
 
 📎 추가 링크
 📄 포트폴리오 PPT 보기
