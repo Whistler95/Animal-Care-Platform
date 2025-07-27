@@ -1,4 +1,4 @@
-# 🐾 Animal Care Platform
+# Animal Care Platform
 > **Spring 기반 유기동물 보호·입양·봉사·후원 통합 관리 플랫폼**
 
 ![MainBanner](이미지URL_나중에추가)  
